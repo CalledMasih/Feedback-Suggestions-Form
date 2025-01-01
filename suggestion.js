@@ -1,8 +1,8 @@
 /* 
 Feedback/Suggestion Form in Discord.js V14
-Hope you Enjoy, Made with 🤍 by Masih#0258
-Github: https://github.com/Masihdeveloper | Don't forget to ⭐
-Website: https://masihdev.ir/
+Hope you Enjoy, Made with 🤍 by CalledMasih
+Github: https://github.com/calledmasih | Don't forget to ⭐
+Website: https://calledmasih.ir/
 Copyright Masih 2024 All Right Reserved!
 */
 
